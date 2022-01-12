@@ -54,13 +54,13 @@ title: home
 
 Data Visualization (cs573, cs582, bcb502)
 
-Term Spring -- 2021
+Term Spring -- 2022
 
 Location<br>
 Zoom!<br>
-M/W 4:00-5:20pm
+M/R 4:00-5:20pm
 
 ### Announcements
 
 
-- wed-01-27: New? [Check out init](/init/) to get started.
+- wed-01-12: New? [Check out init](/init/) to get started.

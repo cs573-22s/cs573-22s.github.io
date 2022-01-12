@@ -82,11 +82,10 @@ Grading
 
 Your course grade comes from three parts:
 
-- Assignments (35%)
-- Labs (10%)
-- Quizzes (15%)
+- Assignments (45%)
+- Labs/Participation (5%)
 - Reflections (10%)
-- Final Project (30%)
+- Final Project (40%)
 
 Academic Honesty
 ---
@@ -99,14 +98,20 @@ Note in particular that copying of any material, may it be a single sentence or 
 
 Any violation of the WPI's guidelines for academic integrity will result in no credit for the assignment, potentially for the entire course, and requires referral to the Student Affairs Office for disciplinary action. More information on definitions, responsibilities and procedures regarding the WPI academic honesty policy can be found online.
 
+
 Late Policy
 ---
 
-You will be allowed a one time one day late turn-in without penalty, assuming you have a legitimate reason as discussed with the professor. All other late assignments will be penalized by subtracting 30% of the total achievable points, but only if turned in within the first 24 hours after the due date. Between 24 to 48 hours late will result in a reduction of 70% of the total achievable points. Late point reductions cannot be made up by later improvements of the assignment. Certain deliverables may not allow for any late days, such as project deliverables and presentations.
+We provide three one day late turn-ins without penalty, please just discuss with the professor as soon as you feel you will not make a deadline. 
 
-I would like you to be aware of the rationale behind late policies. For one, a late policy is a measure to ensure you stay on track and do not run into the problem of "snowballing" with your other responsibilities. At a higher level, late assignments place extra burden on both staff and your fellow classmates. Staff typically allocate time to grade assignments shortly after the due date. Late assignments break this and require staff to allocate extra sessions at the expense of their other responsibilities. This, in turn, places a burden on the entire class as grading must be complete before handing grades and critical feedback back to students.
+Here's some rationale behind the policy:
+A late policy is a measure to ensure you stay on track and do not run into the problem of "snowballing" with your other responsibilities. 
 
-For these reasons, please be considerate and turn your projects in on time. If something comes up, reach out early rather than later.
+At a higher level, late assignments place extra burden on both staff and your fellow classmates. Staff typically allocate time to grade assignments after the due date. 
+
+Late assignments require staff to allocate extra sessions at the expense of their other responsibilities. This, in turn, can place a burden on the entire class as grading must be complete before handing grades and critical feedback back to students.
+
+For these reasons, please be make an effort to turn your projects in on time. If something comes up, reach out early rather than later. We can help, I promise!
 
 Useful Resources
 ---

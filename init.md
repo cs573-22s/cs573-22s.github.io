@@ -7,8 +7,7 @@ permalink: /init/
 This is where you get started.
 
 0. [Read the syllabus](/syl)
-1. Join the [course Slack](https://join.slack.com/t/wpi-fqh8071/shared_invite/zt-lk6p00ys-WxJJTexIz30uWjV9ksEzEw){:target="_blank"} (Note: it will expect you to use your WPI email address).
-2. Take the [course Survey](https://docs.google.com/forms/d/e/1FAIpQLSdFSL8A1npbgb8ZtwC_LpN9S9jVDk6jj0YyBMF0E5QdR7UiEQ/viewform?usp=sf_link)
-3. Wait for your GitHub invite. We do these in batches.
-4. Join the course GitHub.
-5. Get started on A1.
+1. Join the [course Slack](https://join.slack.com/t/slack-w319937/shared_invite/zt-11e0jub6v-8RyxU7pe_C3Vi6_N~aiXVg){:target="_blank"} (Note: it will expect you to use your WPI email address).
+2. Introduce yourself in the #introductions channel!
+3. Take the [course Survey](https://docs.google.com/forms/d/e/1FAIpQLSdTf0pmVwfBDgy0Bm5B3BAldVrHcnMRS0hGvfHBcZYQ4l6dXg/viewform?usp=sf_link)
+4. Get started on A1.
