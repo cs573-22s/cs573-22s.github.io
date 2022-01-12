@@ -1,1 +1,2 @@
-# cs573-22s.github.io
+Website for cs573-21s!
+
