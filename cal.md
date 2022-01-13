@@ -54,8 +54,8 @@ Topic: Data Representation
 Assigned: Assignment 2 - Data Visualization, 7 ways   
 Due: Assignment 0 -- 11:59pm   
 
-[Video]()  
-[Slides](https://wpi0-my.sharepoint.com/:u:/g/personal/ltharrison_wpi_edu/ERstaD9VXS1PhLK92Nu-8NQBAirhfK1p-edzBfmlzePQ2A?e=665IpD)  
+[Video](https://wpi0-my.sharepoint.com/:v:/g/personal/ltharrison_wpi_edu/EXSlOwAejsJIp6E3yqaOyOEB6xLfrbFVYPcYuEYz4vTQBQ?e=IxyxIW)  
+[Code](https://wpi0-my.sharepoint.com/:u:/g/personal/ltharrison_wpi_edu/ERstaD9VXS1PhLK92Nu-8NQBAirhfK1p-edzBfmlzePQ2A?e=665IpD)  
 
 ## Week 2 (Jan 17 - 21)
 
