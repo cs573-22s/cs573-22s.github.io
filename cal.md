@@ -46,17 +46,16 @@ Topic: Overview of Visualization | Intro to Tools
 Assigned: Assignment 0 - Course Survey   
 Assigned: Assignment 1 - Hello World: GitHub and d3   
 
-[Video](https://wpi0-my.sharepoint.com/:v:/g/personal/ltharrison_wpi_edu/EbzQvvDMN_pPsBpTgPmnqfsBGxgC3iwlXe3M3Sh5szmHRg?e=IAwVFq)  
-[Slides](https://wpi0-my.sharepoint.com/:b:/g/personal/ltharrison_wpi_edu/EbeSfGFA_0dLnQFHCU9eB38B9fWcx_8SqlnrRZX3139dlg?e=HJATpb)  
-[Code](https://wpi0-my.sharepoint.com/:u:/g/personal/ltharrison_wpi_edu/Ea3-jR9bCNVJoJw1pKiwLSwBS168InhGtLGFiPplOS2OMA?e=lUxI88)  
+[Video](https://wpi0-my.sharepoint.com/:v:/g/personal/ltharrison_wpi_edu/EVCfxT5h3qpAjuzOSZi7ejcBCW2WJlVIUpFeOSJ9GTxSZg?e=6USbrA)  
+[Slides](https://wpi0-my.sharepoint.com/:b:/g/personal/ltharrison_wpi_edu/ER1JvgkKYFZHtu1GY_bm-usBs6McyTRjxQClzea2X8X4Lg?e=UWsUEC)  
 
 ### 13-Jan Thur   
 Topic: Data Representation  
 Assigned: Assignment 2 - Data Visualization, 7 ways   
 Due: Assignment 0 -- 11:59pm   
 
-[Video](https://wpi0-my.sharepoint.com/:v:/g/personal/ltharrison_wpi_edu/EeX2G5ULFJJBvO36acu_pwQBs__776zj3jkkHPydlaIwfw?e=AYkhxr)  
-[Slides](https://wpi0-my.sharepoint.com/:b:/g/personal/ltharrison_wpi_edu/EbiSSc_FeWhKm4NPAM8d4goBtUItabwkD08z8j9inqhx9w?e=cK4AD6)  
+[Video]()  
+[Slides](https://wpi0-my.sharepoint.com/:u:/g/personal/ltharrison_wpi_edu/ERstaD9VXS1PhLK92Nu-8NQBAirhfK1p-edzBfmlzePQ2A?e=665IpD)  
 
 ## Week 2 (Jan 17 - 21)
 
@@ -71,9 +70,6 @@ NO CLASS! Martin Luther King Day
 ### 20-Jan Thur   
 Topic: Lab/Workday on d3 patterns
 
-[Video](https://wpi0-my.sharepoint.com/:v:/g/personal/ltharrison_wpi_edu/EcV-2Flq64xFgp7JVTDzIowB8yDTe-j3kfk_xSHdrY10nQ?e=zbCOoU)  
-[Code](https://wpi0-my.sharepoint.com/:u:/g/personal/ltharrison_wpi_edu/ERj_kwS-aEtPo8d-q3YcVo4BQmTtNipjaqZma1UlKXdEjQ?e=voUUlw)  
-
 
 ### 21-Jan Fri   
 Due: Assignment 1 -- 11:59pm   
@@ -87,9 +83,6 @@ VAD Chapters 5
 ### 24-Jan Mon   
 Topic: Visualization Design   
 
-[Video](https://wpi0-my.sharepoint.com/:v:/g/personal/ltharrison_wpi_edu/EVCgXXrEJUhMq0U-Jdp77TUBROLP6Vz_UvfLUtrvmPj0FA?e=ZwmYdC)  
-[Slides](https://wpi0-my.sharepoint.com/:b:/g/personal/ltharrison_wpi_edu/EZtiiIhKr1FDnkAsvTvxcFABuAPp8vZMa4JTEa4S8f-alw?e=hPddbA)  
-
 ### 27-Jan Thur   
 Topic: Lab/Workday on Visualization Design
 
@@ -97,9 +90,6 @@ Topic: Lab/Workday on Visualization Design
 
 ### 31-Jan Mon   
 Topic: Visualization Design 2  
-
-[Video](https://wpi0-my.sharepoint.com/:v:/g/personal/ltharrison_wpi_edu/EXQXzTXgwDJIhFvgykSDOo4Bx_kSASQeonB8wc-KDzlW4w?e=Njnyo5)  
-[Slides](https://wpi0-my.sharepoint.com/:b:/g/personal/ltharrison_wpi_edu/ETxFgEX6rbFNgwkoNREj4ZEB_5-bSzDgiSFp2KiE45inRA?e=yOCwEf)  
 
 ### 3-Feb Thur  
 Topic: A2 Workday   
@@ -112,15 +102,8 @@ Reading: Chapters 6, 10
 Topic: Color
 Assigned: Assignment 3 -- Replicating a Classic Experiment    
 
-[Video Part 1](https://wpi0-my.sharepoint.com/:v:/g/personal/ltharrison_wpi_edu/EV_-E2DDy29KlRYhS9kvNtkBvszbKVhKdGNlIoVgCEASMg?e=NaJayK)  
-[Video Part 2](https://wpi0-my.sharepoint.com/:v:/g/personal/ltharrison_wpi_edu/EZ7RCb-bDUJOvnGVjaHYLhABvpLhB_yDZSakPTT0wniZ_g?e=mn01aA)  
-[Slides](https://wpi0-my.sharepoint.com/:b:/g/personal/ltharrison_wpi_edu/EaVAgbewLClCtAYEOZtwDUsBrz6FxQ_gRoHhytAdNmaFsA?e=Ziw2Zd)  
-
 ### 10-Feb Thur   
 Topic: Color Lab (Redesign)
-
-[Video](https://wpi0-my.sharepoint.com/:v:/g/personal/ltharrison_wpi_edu/EXGZ9MWjQZZFrVRLMgG8jN8B0Vr9etV4WaBbEcoC7jTedA?e=7BKgE8)  
-[Slides](https://wpi0-my.sharepoint.com/:b:/g/personal/ltharrison_wpi_edu/ESM_Mg7kYnJDlXEf-yELZX4BnEgtwGhlX-y424-eh51n9Q?e=QOMgGt)  
 
 ### 11-Feb Fri   
 Due: Assignment 2 -- 11:59pm   
@@ -131,14 +114,8 @@ Due: Assignment 2 -- 11:59pm
 ### 14-Feb Mon   
 Topic: Visual Channels   
 
-[Video](https://wpi0-my.sharepoint.com/:v:/g/personal/ltharrison_wpi_edu/EUjKM4gXcOJBsM0yUfFEcJ8BbGtaeSCcgoHD2GtPLUXRVg?e=LlU5RS)  
-[Slides](https://wpi0-my.sharepoint.com/:v:/g/personal/ltharrison_wpi_edu/EUjKM4gXcOJBsM0yUfFEcJ8BbGtaeSCcgoHD2GtPLUXRVg?e=LlU5RS)  
-
 ### 17-Feb Thur  
 Topic: Visual Channels 2 / Lab   
-
-[Video](https://wpi0-my.sharepoint.com/:v:/g/personal/ltharrison_wpi_edu/EaKYqtLZlwdLsJ2TdvqPBJ0B95UzR0Rk_d0EtSF-k9GBNg?e=dvZ8q4)  
-[Slides](https://wpi0-my.sharepoint.com/:b:/g/personal/ltharrison_wpi_edu/ETXnpN0eZTJOqufMwLd396ABIc0_SvoxeD_voekTGHZgBQ?e=ItBBOI)  
 
 ## Week 6 (Feb 21 - 25)   
 Reading: VAD Chapters 7
@@ -152,11 +129,6 @@ Reading: VAD Chapters 8
 ### 28-Feb Mon   
 Topic: Visualizing Tabular Data 2 / Lab   
 Assigned: Assignment 4 -- Multiple Views Visualization  
-
-[Video](https://wpi0-my.sharepoint.com/:v:/g/personal/ltharrison_wpi_edu/Ebc20-Aj-ktIi17odUrMpnoB5t0oA1fdmvfSkWWKKAelQw?e=y4wMvK)  
-[Slides](https://wpi0-my.sharepoint.com/:b:/g/personal/ltharrison_wpi_edu/EXI9vXNZ5alKgYS7frgjAuQBZkACjlz3005ITj4ilkuNVQ?e=PdGqmw)  
-[R code for 95% CIs](https://wpi0-my.sharepoint.com/:u:/g/personal/ltharrison_wpi_edu/EWBeLY1nm-RHkQw_Y2Xo64AB80DfRt8uF4PgrySjBXOxvQ?e=YHN7C2)  
-[Video for R Code (from another class)](https://wpi0-my.sharepoint.com/:v:/g/personal/ltharrison_wpi_edu/ES2yyfHZ-thIoDeTiYYkzJcBoNhHowt-5FOUH-cCblzA-g?e=ygaJx1) 
 
 ### 03-Mar Thur   
 Topic: A3 Workday   
@@ -175,28 +147,18 @@ Reading: VAD Chapter 9
 Topic: Visualizing Spatial Data  
 Assigned: Final Project     
 
-[Video](https://wpi0-my.sharepoint.com/:v:/g/personal/ltharrison_wpi_edu/EVLTIzPJvcJOvMuHkXqqeWQBypmTZTgIqmCWVidxAhgLJw?e=RSpYmo)  
-[Slides](https://wpi0-my.sharepoint.com/:b:/g/personal/ltharrison_wpi_edu/EeiaR_6kM4pGqfZUUpaWCucBOX1_gt-JVI1jgLcSU4Lt4w?e=BitcRn)  
-
 ### 17-Mar Thur   
 Topic: Visualizing Networks  
-
-[Video](https://wpi0-my.sharepoint.com/:v:/g/personal/ltharrison_wpi_edu/EROECpT2xzlKsY9YAouPK4IB8TNyCqI2RrIp4EyJNpCyTw?e=gavAoE)  
-[Slides](https://wpi0-my.sharepoint.com/:b:/g/personal/ltharrison_wpi_edu/EYK1uoNVw5JEvgR57c0fZmUBCL5L6y16Hbb7cLiwn8bsHw?e=kpJwK9)  
 
 ## Week 10 (Mar 21 - 25)   
 
 ### 21-Mar Mon   
 Topic: Visualizing Hierarchies / Trees  
 
-[Video](https://wpi0-my.sharepoint.com/:v:/g/personal/ltharrison_wpi_edu/ERF9A6DmYodCv24OGBhXbhMBpXqAweJdjNyWKyCXnU_hfw?e=pM5unB)  
-[Slides](https://wpi0-my.sharepoint.com/:b:/g/personal/ltharrison_wpi_edu/EQNafNYRn4FIoE1GRaStVwUB-jm4s4vlC2wecZpUc-9x9A?e=Fln7BO)  
 
 ### 24-Mar Mon   
 Topic: Networks Lab / Maps Lab  
 
-[Video](https://wpi0-my.sharepoint.com/:v:/g/personal/ltharrison_wpi_edu/EWi0vEXWKaFDvy7yWceFZlIB6P7xHC3ME75IDnbTc7KXRA?e=dqHR2Q)  
-[Code](https://wpi0-my.sharepoint.com/:u:/g/personal/ltharrison_wpi_edu/ES4hJZNUx5xAhWXxgJ0W-3MBCfsB8TtuY41o_Bbc1UL-DQ?e=iGqdCU)  
 
 ## Week 11 (Mar 28 - Apr 1)   
 Reading: VAD Chapters 11, 12  
@@ -206,14 +168,10 @@ Reading: VAD Chapters 11, 12
 Topic: Interaction   
 Due: Final Project Idea Survey
 
-[Video](https://wpi0-my.sharepoint.com/:v:/g/personal/ltharrison_wpi_edu/EU26susKYmRPnZS_S-WCCJ8Bdu1-wT6PuhYoadHsHp2QEg?e=32POBI)  
-[Slides](https://wpi0-my.sharepoint.com/:b:/g/personal/ltharrison_wpi_edu/EeSVYMdRdq1HsdiEr-gh-SkBzvxVRje9qXCce456uhCOeQ?e=mecfkT)  
 
 ### 31-Mar Thur
 Topic: Interaction Lab   
 
-[Video](https://wpi0-my.sharepoint.com/:v:/g/personal/ltharrison_wpi_edu/EeDQ6EGhrK5HpZiULLg6tAoBFBl1bnc3LBU9wiheWmIX6g?e=6RkyCp)  
-[Code](https://wpi0-my.sharepoint.com/:u:/g/personal/ltharrison_wpi_edu/EU7H5kIIhOFHpcNcYQKnZtkBsnm2qfGs2n341afGQl33nA?e=bsoyT1)  
 
 ## Week 12 (Apr 4 - 8)   
 Reading: VAD Chapter 15  
@@ -223,13 +181,9 @@ Reading:
 ### 4-Apr Mon
 Topic: Evaluation  
 
-[Video](https://wpi0-my.sharepoint.com/:v:/g/personal/ltharrison_wpi_edu/Ecykt9GawABJu8mmqWvVlYYB11P6KZUroEEeWmV5ZpDjXA?e=IBLbTX)  
-[Slides](https://wpi0-my.sharepoint.com/:b:/g/personal/ltharrison_wpi_edu/Edrjau8WskFIlC-bBZx63WkBK761CELA6F_0gtUVndhgmA?e=cGYUMP)  
 
 ### 7-Apr Thur
 Topic: Evaluation 2  
-
-[Video](https://wpi0-my.sharepoint.com/:v:/g/personal/ltharrison_wpi_edu/EdVtq9jWzJhIiqf1nvGzmfYB74LF3jz7tQJvFD-xzms88g?e=HEESyb)  
 
 ### 8-Apr Fri
 Due: Final Project Team Prospectus
