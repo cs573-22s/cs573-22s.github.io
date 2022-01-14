@@ -16,5 +16,5 @@ Office Hours -> 3-4 @ Zoom
 
 TAs   
 Noelle Rakotondravony  
-Office Hours -> TBA    
+Office Hours -> 3-4p Tuesday @ Zoom ([link](https://wpi.zoom.us/j/92174869463))
 
