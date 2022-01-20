@@ -50,9 +50,8 @@ Assigned: Assignment 1 - Hello World: GitHub and d3
 [Slides](https://wpi0-my.sharepoint.com/:b:/g/personal/ltharrison_wpi_edu/ER1JvgkKYFZHtu1GY_bm-usBs6McyTRjxQClzea2X8X4Lg?e=UWsUEC)  
 
 ### 13-Jan Thur   
-Topic: Data Representation  
-Assigned: Assignment 2 - Data Visualization, 7 ways   
 Due: Assignment 0 -- 11:59pm   
+Topic: Lab/Workday on d3 patterns
 
 [Video](https://wpi0-my.sharepoint.com/:v:/g/personal/ltharrison_wpi_edu/EXSlOwAejsJIp6E3yqaOyOEB6xLfrbFVYPcYuEYz4vTQBQ?e=IxyxIW)  
 [Code](https://wpi0-my.sharepoint.com/:u:/g/personal/ltharrison_wpi_edu/ERstaD9VXS1PhLK92Nu-8NQBAirhfK1p-edzBfmlzePQ2A?e=665IpD)  
@@ -68,7 +67,8 @@ VAD Chapters 3-4
 NO CLASS! Martin Luther King Day
 
 ### 20-Jan Thur   
-Topic: Lab/Workday on d3 patterns
+Topic: Data Representation  
+Assigned: Assignment 2 - Data Visualization, 7 ways   
 
 
 ### 21-Jan Fri   
