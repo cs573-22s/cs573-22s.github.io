@@ -70,6 +70,9 @@ NO CLASS! Martin Luther King Day
 Topic: Data Representation  
 Assigned: Assignment 2 - Data Visualization, 7 ways   
 
+[Video](https://wpi0-my.sharepoint.com/:v:/g/personal/ltharrison_wpi_edu/EVzG8kgY695HvPskB2nbLcgBiqYLZPZp3O3IFE42iE1QgQ?e=3iPxlq)  
+[Slides](https://wpi0-my.sharepoint.com/:b:/g/personal/ltharrison_wpi_edu/EcVEx92uF2lDv09xCEZYWzMBE0hXHOfh5gBsh2ZkoKJkWg?e=Zwg8K8)  
+
 
 ### 21-Jan Fri   
 Due: Assignment 1 -- 11:59pm   
