@@ -88,6 +88,7 @@ Topic: Visualization Design
 
 [Video](https://wpi0-my.sharepoint.com/:v:/g/personal/ltharrison_wpi_edu/ETzbU-wViP9Lstj-BKyPpnUBnyZw-8bNpTfCK-utLdwKGg?e=n4Yh7k)    
 [Slides](https://wpi0-my.sharepoint.com/:b:/g/personal/ltharrison_wpi_edu/ETx8k7WIlV5MmhvLJCPLyQMBjde8qAumwniNP1_XLTfoqQ?e=YFUxgb)    
+[Slides (McKenna's Design Activities)](https://wpi0-my.sharepoint.com/:b:/g/personal/ltharrison_wpi_edu/EQhe6TNnSaRHt5DlHfsgKRUBYmkRtDo7a2Q4gmaOE-sygw?e=AeEEbq)    
 
 ### 27-Jan Thur   
 Topic: Lab/Workday on Visualization Design
