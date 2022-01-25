@@ -86,6 +86,9 @@ VAD Chapters 5
 ### 24-Jan Mon   
 Topic: Visualization Design   
 
+[Video](https://wpi0-my.sharepoint.com/:v:/g/personal/ltharrison_wpi_edu/ETzbU-wViP9Lstj-BKyPpnUBnyZw-8bNpTfCK-utLdwKGg?e=n4Yh7k)    
+[Slides](https://wpi0-my.sharepoint.com/:b:/g/personal/ltharrison_wpi_edu/ETx8k7WIlV5MmhvLJCPLyQMBjde8qAumwniNP1_XLTfoqQ?e=YFUxgb)    
+
 ### 27-Jan Thur   
 Topic: Lab/Workday on Visualization Design
 
