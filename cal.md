@@ -91,7 +91,12 @@ Topic: Visualization Design
 [Slides (McKenna's Design Activities)](https://wpi0-my.sharepoint.com/:b:/g/personal/ltharrison_wpi_edu/EQhe6TNnSaRHt5DlHfsgKRUBYmkRtDo7a2Q4gmaOE-sygw?e=AeEEbq)    
 
 ### 27-Jan Thur   
-Topic: Lab/Workday on Visualization Design
+Topic: Lab/Workday on R and D3
+
+[Video](https://wpi0-my.sharepoint.com/:v:/g/personal/ltharrison_wpi_edu/EapnY6s41Z5DhRp60f_fl3QBFi6MC3balgFFeCynx1qBsw?e=VENmqF)    
+[Code R+ggplot2](https://wpi0-my.sharepoint.com/:u:/g/personal/ltharrison_wpi_edu/EfP88juFIZ1Jh5lM2HkoAd4BbSYI-HL4htYJpbVHFWRGTA?e=sq6uHb)    
+[Code d3](https://wpi0-my.sharepoint.com/:u:/g/personal/ltharrison_wpi_edu/EbL0yRNTTmFBj5nZTfwso_gBxgHD80lhyoO-ZcYG5yzkIQ?e=7XY4QO)
+[Code Observable](https://observablehq.com/d/4f28a37068afd93a)    
 
 ## Week 4 (Jan 31 - Feb 4)
 
