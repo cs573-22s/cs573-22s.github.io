@@ -111,11 +111,14 @@ Reading: Chapters 6, 10
 [Colorgorical: Creating discriminable and preferable color palettes for information visualization](https://gramaz.io/pdf/gramazio-2016-ccd.pdf) 
  
 ### 7-Feb Mon   
-Topic: Color
-Assigned: Assignment 3 -- Replicating a Classic Experiment    
+Topic: Color  
+
+[Video](https://wpi0-my.sharepoint.com/:v:/g/personal/ltharrison_wpi_edu/ETvrfb4XEtNOk1u7Z1PWWV8BNglF6h3nMowHjQHQE8TOOg?e=eVIQND)    
+[Slides](https://wpi0-my.sharepoint.com/:b:/g/personal/ltharrison_wpi_edu/EXbjaYdzOVVBrCpSjE9YQrIBUm-6KL7eh2T_wigbGB7eag?e=mc2Ash)    
 
 ### 10-Feb Thur   
 Topic: Color Lab (Redesign)
+Assigned: Assignment 3 -- Replicating a Classic Experiment    
 
 ### 11-Feb Fri   
 Due: Assignment 2 -- 11:59pm   
