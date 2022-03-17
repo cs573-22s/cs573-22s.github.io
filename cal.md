@@ -163,13 +163,15 @@ Topic: Visualizing Spatial Data
 Assigned: Final Project     
 
 ### 17-Mar Thur   
-Topic: Visualizing Networks  
+Topic: Maps Lab
 
 ## Week 10 (Mar 21 - 25)   
 
 ### 21-Mar Mon   
-Topic: Visualizing Hierarchies / Trees  
+Topic:  Visualizing Networks   
 
+### 22-Mar Tue
+Due: Final Project Idea Survey
 
 ### 24-Mar Mon   
 Topic: Networks Lab / Maps Lab  
@@ -180,12 +182,11 @@ Reading: VAD Chapters 11, 12
 [Toward a Deeper Understanding of the Role of Interaction in Information Visualization](http://innovis.cpsc.ucalgary.ca/innovis/uploads/Courses/InfoVisTutorial2010/read_DeeperUnderstanding.pdf)  
 
 ### 28-Mar Mon
-Topic: Interaction   
-Due: Final Project Idea Survey
+Topic: Visualizing Hierarchies / Trees     
 
 
 ### 31-Mar Thur
-Topic: Interaction Lab   
+Topic: Interaction   
 
 
 ## Week 12 (Apr 4 - 8)   
@@ -195,13 +196,12 @@ Reading:
 
 ### 4-Apr Mon
 Topic: Evaluation  
+Due: Final Project Team Prospectus
 
 
 ### 7-Apr Thur
 Topic: Evaluation 2  
 
-### 8-Apr Fri
-Due: Final Project Team Prospectus
 
 ## Week 13 (Apr 11 - 15)   
 
