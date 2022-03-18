@@ -163,7 +163,9 @@ Topic: Visualizing Spatial Data
 Assigned: Final Project     
 
 ### 17-Mar Thur   
-Topic: Maps Lab
+Topic: Maps Lab   
+[Video](https://wpi0-my.sharepoint.com/:v:/g/personal/ltharrison_wpi_edu/EdmpuKz5KuZGoLzTUTY67gEBU0jFWY18N44TXS_JwohrPw?e=m2bDT3)    
+[Code](https://wpi0-my.sharepoint.com/:u:/g/personal/ltharrison_wpi_edu/EZfMPLWhIeBBsowAfk1gR14B603I2bRVYz1hKmjc8DZf5w?e=GWcYr1)    
 
 ## Week 10 (Mar 21 - 25)   
 
