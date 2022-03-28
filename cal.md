@@ -172,11 +172,16 @@ Topic: Maps Lab
 ### 21-Mar Mon   
 Topic:  Visualizing Networks   
 
+[Video](https://wpi0-my.sharepoint.com/:v:/g/personal/ltharrison_wpi_edu/EXWFbcY3ISRKunVo6CF7Q74BIQBixpNibltCZQqxfwR2WA?e=5JssJa)   
+[Slides](https://wpi0-my.sharepoint.com/:b:/g/personal/ltharrison_wpi_edu/EVc9-s_YjphAiYlCVgbWWWQBU1DsWvrs_yZ7GyQAaBkzhg?e=xXhaQv)  
+
 ### 22-Mar Tue
 Due: Final Project Idea Survey
 
 ### 24-Mar Mon   
 Topic: Networks Lab / Maps Lab  
+[Video](https://wpi0-my.sharepoint.com/:v:/g/personal/ltharrison_wpi_edu/EQnW53stK8hHij-W5EN8YeoBXaMkSEi207E28dyFsywkLg?e=PUAX3w)   
+[Code](https://wpi0-my.sharepoint.com/:u:/g/personal/ltharrison_wpi_edu/EVUOmw6OemVNkNFzuGzLrLEBOspseYGFPl6gGny4eSc9BQ?e=YCAyeS)   
 
 
 ## Week 11 (Mar 28 - Apr 1)   
